@@ -16,4 +16,23 @@
     .selecao-de-personagens .personagens .titulo{
         font-size: 15px;
     }
+
+    .selecao-de-personagens .lista-de-personagem{
+        gap: 9px;
+    }
+    
+    .selecao-de-personagens .personagem img{
+        width: 80px;
+    }
+
+    .personagem-selecionado .personagem-grande{
+        width: 350px;
+        height: 350px;
+    }
+
+    .personagem-selecionado .descricaç-personagem{
+        width: 60px;
+        font-size: 16px;
+        margin: 20px auto;
+    }
 }
