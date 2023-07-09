@@ -10,7 +10,7 @@
     }
 
     .selecao-de-personagens .personagens{
-        margin-top: 40px;
+        margin-top: 37px;
     }
 
     .selecao-de-personagens .personagens .titulo{
@@ -31,7 +31,7 @@
     }
 
     .personagem-selecionado .descricaç-personagem{
-        width: 60px;
+        width: 80px;
         font-size: 16px;
         margin: 20px auto;
     }
