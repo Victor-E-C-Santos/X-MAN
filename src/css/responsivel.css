@@ -5,34 +5,34 @@
 
     .selecao-de-personagens{
         flex-direction: column-reverse;
-        max-width: 430px;
+        max-width: 300px;
         margin: 0 auto;
     }
 
     .selecao-de-personagens .personagens{
-        margin-top: 37px;
+        margin-top: 30px;
     }
 
     .selecao-de-personagens .personagens .titulo{
-        font-size: 15px;
+        font-size: 10px;
     }
 
     .selecao-de-personagens .lista-de-personagem{
-        gap: 9px;
+        gap: 5px;
     }
     
     .selecao-de-personagens .personagem img{
-        width: 80px;
+        width: 65px;
     }
 
     .personagem-selecionado .personagem-grande{
-        width: 350px;
-        height: 350px;
+        width: 300px;
+        height: 300px;
     }
 
     .personagem-selecionado .descricaç-personagem{
-        width: 80px;
-        font-size: 16px;
-        margin: 20px auto;
+        width: 65px;
+        font-size: 10px;
+        margin: 10px auto;
     }
 }
